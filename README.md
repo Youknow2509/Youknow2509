@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/Youknow2509"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=50&duration=2311&pause=500&color=80cbc4&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%91%8B+Hello+World+!+;I'm+V" alt="V | hello_world!" /></a>
 </p> 
-<h3 align="center"> ♥️ <a href="mailto:lytranvinh.work@gmail.com">Gmail</a> • <a href="https://t.me/uknow_2509">Telegram</a> • <a href="https://www.instagram.com/_youknow.2509_">Instagram</a>  ♥️ </h3>  
+<h3 align="center"> ♥️ <a href="lytranvinh.work@gmail.com">Gmail</a> • <a href="https://t.me/uknow_2509">Telegram</a> • <a href="https://www.instagram.com/_youknow.2509_">Instagram</a>  ♥️ </h3>  
 
 ![Profile View](https://komarev.com/ghpvc/?username=Youknow2509&style=flat-square)
 
