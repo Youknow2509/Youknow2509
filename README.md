@@ -15,8 +15,10 @@
   </a>
 </div>
 
+<!-- 
 ### <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img> About Me </h2>
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark) 
+-–>
 ---
 <div align="center">
   :heart: Thanks for watching my profile! Have a nice day! :heart: <br/>
