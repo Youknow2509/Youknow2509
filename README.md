@@ -11,7 +11,7 @@
   <a href="https://github.com/Youknow2509">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Youknow2509&cache_seconds=7200&layout=compact&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=8" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknow2509&langs_count=8&layout=compact&hide=java&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=8" />
-    <img height="280em" src="https://activity-graph.herokuapp.com/graph?username=Youknow2509&theme=material&radius=16" />
+    <img height="280em" src="https://github-readme-activity-graph.cyclic.app/graph?username=Youknow2509&theme=material&radius=16" />
   </a>
 </div>
 
