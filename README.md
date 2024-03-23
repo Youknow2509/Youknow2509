@@ -7,11 +7,12 @@
 
 
 ### <h2> <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px"> My GitHub Analytics </h2> 
+
 <div align="center">
   <a href="https://github.com/Youknow2509">
     <img height="180em" src="https://github-stats.agentbot.xyz/api/top-langs/?username=youknow2509&theme=tokyonight&layout=compact" />
     <img height="180em" src="https://github-stats.agentbot.xyz/api?username=youknow2509&count_private=true&show_icons=true&theme=tokyonight" />
-    <img height="280em" src="https://github-readme-activity-graph.cyclic.app/graph?username=Youknow2509&theme=material&radius=16" />
+    <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=youknow2509&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true"/>
   </a>
 </div>
 
