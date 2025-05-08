@@ -146,7 +146,7 @@
                     https://skillicons.dev/icons?i=gmail"
             />
             <img
-                src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg"
+                src="https://skillicons.dev/icons?i=gmail"
                 width="32"
                 height="32"
             />
