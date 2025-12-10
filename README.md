@@ -53,7 +53,7 @@
 
 #### Programming Languages
 
-[![Programming Languages](https://skillicons.dev/icons?i=go,java,py,js,ts,cpp,cs,c,nodejs,lua)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=rust,go,java,py,js,ts,cpp,cs,c,nodejs,lua)](https://skillicons.dev)
 
 <!--
 #### Frontend Web Development
